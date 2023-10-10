@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "colab",
+        "ddim",
+        "nvidiasmi",
+        "sklearn",
+        "uncond",
+        "updown",
+        "xlabel",
+        "ylabel"
+    ],
+    "python.autoComplete.extraPaths": ["/opt/homebrew/lib/python3.9/site-packages","/Users/jerry/miniforge3/lib/python3.9/site-packages"]
+}
